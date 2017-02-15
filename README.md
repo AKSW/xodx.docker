@@ -3,8 +3,8 @@ This is a docker file for Xodx a node for the Distributed Semantic Social Networ
 You can find more information about Xodx at:
 
   * [github](https://github.com/AKSW/xodx)
-  * [AKSW Project page](http://aksw.org/Project/Xodx)
-  * [demo](http://xodx.comiles.eu/)
+  * [AKSW Project page](http://aksw.org/Projects/Xodx)
+  * [demo](http://xodx.demo.aksw.org/)
 
 create with
 
